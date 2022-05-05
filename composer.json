@@ -1,0 +1,15 @@
+{
+    "name": "ja1/budowniczy",
+    "autoload": {
+        "psr-4": {
+            "Builder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mateusz",
+            "email": "mateusz.rusiecki@amsterdam-standard.pl"
+        }
+    ],
+    "require": {}
+}
